@@ -9,3 +9,4 @@ make difference
 creating a new branch is dev
 creating a new branch is quict & simple. dev 
 git append issue-01
+master git push 
