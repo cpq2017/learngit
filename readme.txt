@@ -7,8 +7,4 @@ Git tracks changes of files.
 Git push origin master.
 make difference
 creating a new branch is dev
-<<<<<<< HEAD
-creating a new branch is quict & simple. master 
-=======
-creating a new branch is quik and simple. feature1
->>>>>>> feature1
+creating a new branch is quict & simple. dev 
